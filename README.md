@@ -1,7 +1,7 @@
 # Andmebaasid-LOGITpe24
 Andmebaasidega seotud sql kood ja konspekt
 
-- SQL - Structured Query Language - struktureeritud päringukeel - 
+- SQL - Structured Query Language - struktureeritud päringukeel
 - DDL - Data Definition Language - andmebaasi struktuuri loomiseks - CREATE, ALTER
 - DML - Data Manipulation Language - andmete lisamine ja uuendamine tabelis - INSERT, UPDATE, DELETE
 
@@ -26,4 +26,10 @@ Andmebaasidega seotud sql kood ja konspekt
   - date, time, datetime - kuupäeva
 
 ## Piirangud
-1. 
+```
+1. Primary Key
+2. Foreign Key
+3. Unique
+4. Not null
+5. Check
+```
