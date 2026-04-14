@@ -3,7 +3,8 @@
 
 ## Tunnis kasutame andmebaasihalduse
 1. SQL Server Management Stuudio (SQL Serveri haldamiseks)
-2. XAMPP -phpmyAdmin (mariaDB andmebaas) -vabavara
+   <img width="480" height="514" alt="{BD537224-0B80-4DE1-ACA5-3C968BD484D5}" src="https://github.com/user-attachments/assets/0b00658a-0fce-451c-b451-fa8d06a03d63" />
+3. XAMPP -phpmyAdmin (mariaDB andmebaas) -vabavara
 
    ## Põhimõisted
 
