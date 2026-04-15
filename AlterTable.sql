@@ -4,7 +4,7 @@ ALTER TABLE opilane ADD telefon varchar(1);
 --tabeli struktuuri muutmine -veeru kustutamine
 ALTER TABLE opilane DROP COLUMN telefon;
 
---tabeli muutmine -veeru andmetüübi vahetamine
+--tabeli muutmine -veeru andmetüübi vahetamine 
 ALTER TABLE opilane ALTER COLUMN telefon varchar(13);
 
 --store procedure help, mis näitab tabeli struktuuri ja veerude andmetüüpe
