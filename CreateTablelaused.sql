@@ -10,7 +10,7 @@ pohitoetus bit,
 aadress TEXT,
 keskmineHinne decimal(2, 1))
 
-SELECT * FROM opilane;
+SELECT * FROM opilane; 
 
 --andmete lisamine tabelisse
 INSERT INTO opilane(perekonnanimi, eesnimi, synniaeg)
