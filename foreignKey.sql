@@ -21,5 +21,5 @@ DROP TABLE testTabel;
 DROP database VlT2;
 
 --tabelirida kustutamine
-select * from opilane;
+select * from opilane; 
 DELETE FROM opilane WHERE opilaneId=4;
