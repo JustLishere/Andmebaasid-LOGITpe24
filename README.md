@@ -60,7 +60,6 @@ BEGIN
 	VALUES (@nimi);
 	select * from categories;
 END
-
 --kutse
 EXEC lisaKategooria 'test';
 
@@ -73,7 +72,6 @@ BEGIN
 	Delete from categories where category_id=@id;
 	SELECT * FROM categories;
 END
-
 --kutse
 EXEC kustutaIdJargi 3;
 ```
