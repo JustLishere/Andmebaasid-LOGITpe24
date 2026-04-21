@@ -59,6 +59,10 @@ BEGIN
 	INSERT INTO categories
 	VALUES (@nimi);
 	select * from categories;
+END
+
+--kutse
+EXEC lisaKategooria 'test';
 
 --protseduur, mis kustutab tabelist id järgi
 create procedure kustutaIdJargi
@@ -72,9 +76,5 @@ END
 
 --kutse
 EXEC kustutaIdJargi 3;
-END
-
---kutse
-EXEC lisaKategooria 'test';
 ```
   
