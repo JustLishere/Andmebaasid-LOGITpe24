@@ -59,6 +59,19 @@ BEGIN
 	INSERT INTO categories
 	VALUES (@nimi);
 	select * from categories;
+
+--protseduur, mis kustutab tabelist id järgi
+create procedure kustutaIdJargi
+@id int
+AS
+BEGIN
+	SELECT * FROM categories;
+	Delete from categories where category_id=@id;
+	SELECT * FROM categories;
+END
+
+--kutse
+EXEC kustutaIdJargi 3;
 END
 
 --kutse
