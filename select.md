@@ -115,3 +115,19 @@ values ('735oFx', 'Subaru', 'Impreza', 2000, 'Purple', '€9556,74');
 insert into auto (autonumber, mark, mudel, v_aasta, varv, hind) 
 values ('393DuS', 'Buick', 'Lucerne', 2007, 'Pink', '€5787,90');
 ```
+
+```sql
+--näita kõik
+select * from auto;
+
+--näita ainult mark,mudel, ja hind
+select mark, mudel, hind from auto
+
+--tingimused
+--sorteerimine - ORDER by -kasvavalt, DESC - kahanevalt
+select mark, mudel, hind
+from auto 
+ORDER by hind DESC;
+```
+
+<img width="563" height="457" alt="{88A4D5AF-BD12-450A-BCA4-77BA5F01FC77}" src="https://github.com/user-attachments/assets/f90508bb-0ed0-4f8e-819c-e7eb85ef0adc" />
