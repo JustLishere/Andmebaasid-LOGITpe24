@@ -128,6 +128,51 @@ select mark, mudel, hind from auto
 select mark, mudel, hind
 from auto 
 ORDER by hind DESC;
+
+-- mark algab c tähega
+select mark from auto 
+where mark like 'C%';
+
+--mark sisaldab c täht
+select mark from auto 
+where mark like '%C%';
+
+--hind on vahemikus 100000 kuni 500000 euro
+select mark, autonumber, hind
+from auto
+where hind > 100000 And hind < 500000;
+
+--teine variant
+select mark, autonumber, hind
+from auto
+where hind between 100000 And 500000;
+
+--kombineeritud tingimused(AND, OR, NOT)
+select mark, autonumber, hind
+from auto
+where mark like 'Audi' or hind <=100000
+
+--vaate loomine - VIEW
+create view audiAutod
+AS
+select mark, autonumber, hind
+from auto
+where mark like 'Audi';
+
+--view kasutamine
+select * from audiAutod;
+
+--agregaatfunktsioonid - SUM, MAX, MIN, AVG, COUNT- kogus
+--Leia mitu autot on tabelis
+select count(*) AS autodeArv from auto;
+
+--leia keskmine autohind
+select avg(hind) AS 'auto Keskmine Hind' from auto;
+
+--leia keskmine autohind iga margi kohta 
+select mark, avg(hind) AS 'auto Keskmine Hind'
+from auto 
+group by mark;
 ```
 
 <img width="563" height="457" alt="{88A4D5AF-BD12-450A-BCA4-77BA5F01FC77}" src="https://github.com/user-attachments/assets/f90508bb-0ed0-4f8e-819c-e7eb85ef0adc" />
