@@ -293,4 +293,3 @@ Siin:
 1. SQL Documentation – https://www.w3schools.com/sql/
 2. MySQL Documentation – https://dev.mysql.com/doc/
 3. PostgreSQL Documentation – https://www.postgresql.org/docs/
-4. Minu githubi repository
