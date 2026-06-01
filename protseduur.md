@@ -57,28 +57,6 @@ BEGIN
 END;
 ```
 
-Käivitamine:
-
-```sql
-DECLARE @arv INT;
-
-EXEC kasutajateArv @kogus = @arv OUTPUT;
-
-SELECT @arv AS KasutajateArv;
-```
-
-## Dünaamiline SQL
-
-Dünaamiline SQL tähendab, et SQL-käsk luuakse programmi töö käigus stringina.
-
-```sql
-DECLARE @sql NVARCHAR(MAX);
-
-SET @sql = 'SELECT * FROM kasutajad';
-
-EXEC sp_executesql @sql;
-```
-
 ## Tabeli muutmine (ALTER TABLE)
 
 Olemasoleva tabeli struktuuri saab muuta käsuga `ALTER TABLE`.
