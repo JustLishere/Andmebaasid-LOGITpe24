@@ -25,7 +25,8 @@ CREATE TABLE Opilased (
 );
 ```
 
-**Ekraanipilt:** lisa pilt loodud tabelist ja selle struktuurist.
+<img width="236" height="127" alt="{35B26D59-E52F-47C1-8CD5-DE3A9DF79835}" src="https://github.com/user-attachments/assets/8cb82a74-994b-4dcc-a852-e15513a93e89" />
+<img width="237" height="113" alt="{202C2D36-6947-4707-A243-F21C45EBF906}" src="https://github.com/user-attachments/assets/9fbd5833-312b-41b6-bd3f-8c039529a3cf" />
 
 ---
 
@@ -61,6 +62,7 @@ CREATE TABLE Opilased (
 ```
 
 **Ekraanipilt:** lisa pilt mõlema tabeli struktuurist.
+
 
 ---
 
