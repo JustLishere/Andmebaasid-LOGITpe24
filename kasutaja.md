@@ -1,6 +1,6 @@
 # SQL Kasutajad (Users)
 
-[Põhimõisted](README.md) | [Select laused](select.md) | [Triggerid](trigerid.md) | [Portfooli](keys.md) | [Kasutajad](kasutaja.md) | [Protseduurid](protseduur.md) | [Vaade](vaade.md)
+[Põhimõisted](README.md) | [Select laused](select.md) | [Triggerid](trigerid.md) | [Keys](keys.md) | [Kasutajad](kasutaja.md) | [Protseduurid](protseduur.md) | [Vaade](vaade.md)
 
 ## Eesmärk
 
