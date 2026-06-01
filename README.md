@@ -1,4 +1,4 @@
-# AndmebaasidLOGITpe24
+# AndmebaasidLOGITpe24 Peelo portfoolio
 
 Andmebaasidega seotud sql kood ja konspekt
 
