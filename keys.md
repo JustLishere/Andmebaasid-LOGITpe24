@@ -63,8 +63,8 @@ CREATE TABLE Opilased (
 );
 ```
 
-**Ekraanipilt:** lisa pilt mõlema tabeli struktuurist.
-
+<img width="276" height="174" alt="{64515734-309C-401E-AB48-7C15F028B796}" src="https://github.com/user-attachments/assets/87d4a483-e9d1-416b-9040-6fe6feefb145" />
+<img width="501" height="133" alt="{EC7E96A9-898B-4C45-9D4C-6D93E787BAB1}" src="https://github.com/user-attachments/assets/26609559-b9d0-416a-862e-3791d1dcb611" />
 
 ---
 
@@ -91,7 +91,7 @@ CREATE TABLE Kasutajad (
 );
 ```
 
-**Ekraanipilt:** lisa pilt tabeli struktuurist.
+<img width="242" height="117" alt="{3289C2A8-FE6A-4E97-B918-F5A20432113C}" src="https://github.com/user-attachments/assets/31d6b075-8ec5-4d96-b56b-ae52fa6b2178" />
 
 ---
 
@@ -118,7 +118,7 @@ CREATE TABLE Tooted (
 );
 ```
 
-**Ekraanipilt:** lisa pilt tabeli struktuurist.
+<img width="233" height="113" alt="{DC573477-50B3-4D19-81B7-D36ED2FFDD03}" src="https://github.com/user-attachments/assets/ce98a950-4ca3-467c-8e65-5e09f0d9f1bd" />
 
 ---
 
@@ -147,7 +147,7 @@ CREATE TABLE OppeaineHinded (
 );
 ```
 
-**Ekraanipilt:** lisa pilt tabeli struktuurist.
+<img width="239" height="129" alt="{CE2D2964-D289-4B05-AC3F-A1B34F1269A6}" src="https://github.com/user-attachments/assets/edf789f1-9011-4450-be7d-800e20273140" />
 
 ---
 
@@ -176,7 +176,7 @@ CREATE TABLE Tellimused (
 );
 ```
 
-**Ekraanipilt:** lisa pilt tabeli struktuurist.
+<img width="242" height="126" alt="{7CA01264-7E20-489A-B7A0-430B21A967F3}" src="https://github.com/user-attachments/assets/3aa92f59-85ac-455a-bbed-2f86851316c0" />
 
 ---
 
@@ -212,7 +212,7 @@ Näiteks:
 
 Kõik on Super Key'd.
 
-**Ekraanipilt:** lisa pilt tabeli struktuurist.
+<img width="237" height="138" alt="{236133DD-5FE3-4450-89C4-5639B58B0BBD}" src="https://github.com/user-attachments/assets/781ced34-5ea8-44a3-b1fc-45ec23117d72" />
 
 ---
 
@@ -233,10 +233,10 @@ Ei sisalda üleliigseid atribuute.
 ### SQL näide
 
 ```sql
-CREATE TABLE Tooajad (
-    TooajaID INT,
+CREATE TABLE Tootajad (
+    TootajaID INT,
     Isikukood VARCHAR(11) UNIQUE,
-    PRIMARY KEY (TooajaID)
+    PRIMARY KEY (TootajaID)
 );
 ```
 
@@ -245,7 +245,7 @@ Siin võivad kandidaatvõtmed olla:
 * TooajaID
 * Isikukood
 
-**Ekraanipilt:** lisa pilt tabeli struktuurist.
+<img width="231" height="103" alt="{39203CC2-CC10-4FCB-BB70-44F44BD98527}" src="https://github.com/user-attachments/assets/3610d65e-130f-4867-890b-0f70896aa19b" />
 
 ---
 
@@ -277,7 +277,7 @@ Siin:
 * Primary Key = TooajaID
 * Alternate Key = Isikukood
 
-**Ekraanipilt:** lisa pilt tabeli struktuurist.
+<img width="234" height="102" alt="{2B9E1A9F-9630-44AA-88AE-E7B8EC622836}" src="https://github.com/user-attachments/assets/1b8bfdb7-f873-4320-9706-b3b183509762" />
 
 ---
 
