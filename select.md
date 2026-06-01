@@ -1,3 +1,7 @@
+## Select laused
+
+[Select laused](select.md) | [Triggerid](trigerid.md) | [Portfooli](keys.md) | [Kasutajad](kasutaja.md) | [Protseduurid](protseduur.md) | [Vaade](vaade.md)
+
 <img width="1017" height="432" alt="{4805EFEF-947A-412A-B780-AEF3C6A78661}" src="https://github.com/user-attachments/assets/46dae243-80df-4b6d-904d-fde9a31cb3f0" />
 
 ```sql
