@@ -1,5 +1,7 @@
 # SQL Kasutajad (Users)
 
+[Select laused](select.md) | [Triggerid](trigerid.md) | [Portfooli](keys.md) | [Kasutajad](kasutaja.md) | [Protseduurid](protseduur.md) | [Vaade](vaade.md)
+
 ## Eesmärk
 
 SQL kasutaja (User) on konto, mille kaudu inimene või rakendus pääseb andmebaasile ligi. Kasutajatele saab määrata erinevaid õigusi, et kontrollida, mida nad andmebaasis teha võivad.
