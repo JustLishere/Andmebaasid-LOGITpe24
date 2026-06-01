@@ -23,6 +23,7 @@ END;
 ```sql
 EXEC kuvaKasutajad;
 ```
+<img width="394" height="265" alt="{742DC269-63D5-4138-B7D6-626171486156}" src="https://github.com/user-attachments/assets/7b82d92c-32b1-47e9-a141-5aac51b3d0cb" />
 
 ## Parameetrite kasutamine
 
@@ -44,6 +45,7 @@ Käivitamine:
 ```sql
 EXEC leiaKasutaja @kasutajaID = 1;
 ```
+<img width="365" height="303" alt="{49405D5F-B4ED-4E7C-80D8-C9FEF2C43524}" src="https://github.com/user-attachments/assets/898aefc6-d4a3-4ef3-83f7-741a721faaf3" />
 
 ## Väljundparameetrid (OUTPUT)
 
@@ -56,6 +58,7 @@ BEGIN
     FROM kasutajad;
 END;
 ```
+<img width="291" height="211" alt="{7FF1AE0C-0D5B-445F-9444-47DD585B9779}" src="https://github.com/user-attachments/assets/7e5560e1-0835-4112-9d4e-99ae0758c376" />
 
 ## Tabeli muutmine (ALTER TABLE)
 
