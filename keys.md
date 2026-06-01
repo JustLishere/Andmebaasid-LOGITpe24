@@ -92,6 +92,7 @@ CREATE TABLE Kasutajad (
 ```
 
 <img width="242" height="117" alt="{3289C2A8-FE6A-4E97-B918-F5A20432113C}" src="https://github.com/user-attachments/assets/31d6b075-8ec5-4d96-b56b-ae52fa6b2178" />
+<img width="297" height="155" alt="{4C221ADA-C0EB-42A6-971D-A8434F7CC26F}" src="https://github.com/user-attachments/assets/fbae2521-1903-4926-b1bf-55fdeeba0405" />
 
 ---
 
@@ -119,6 +120,7 @@ CREATE TABLE Tooted (
 ```
 
 <img width="233" height="113" alt="{DC573477-50B3-4D19-81B7-D36ED2FFDD03}" src="https://github.com/user-attachments/assets/ce98a950-4ca3-467c-8e65-5e09f0d9f1bd" />
+<img width="281" height="145" alt="{F832583B-12AA-4728-89C3-4F5E5410768A}" src="https://github.com/user-attachments/assets/9a5ec77b-375a-405f-8057-4df11a689272" />
 
 ---
 
@@ -148,6 +150,7 @@ CREATE TABLE OppeaineHinded (
 ```
 
 <img width="239" height="129" alt="{CE2D2964-D289-4B05-AC3F-A1B34F1269A6}" src="https://github.com/user-attachments/assets/edf789f1-9011-4450-be7d-800e20273140" />
+<img width="378" height="209" alt="{A491C72E-E6C1-40AC-B5E1-2D8C1F1DAE83}" src="https://github.com/user-attachments/assets/6084cde7-cf9a-4f1b-9569-62bf01fff3ad" />
 
 ---
 
@@ -177,6 +180,7 @@ CREATE TABLE Tellimused (
 ```
 
 <img width="242" height="126" alt="{7CA01264-7E20-489A-B7A0-430B21A967F3}" src="https://github.com/user-attachments/assets/3aa92f59-85ac-455a-bbed-2f86851316c0" />
+<img width="345" height="176" alt="{E8968BFE-4E0A-4981-AF87-F7F4B4AC1908}" src="https://github.com/user-attachments/assets/7728760b-ca25-4f94-8de9-e5420f1ae9ab" />
 
 ---
 
@@ -213,6 +217,7 @@ Näiteks:
 Kõik on Super Key'd.
 
 <img width="237" height="138" alt="{236133DD-5FE3-4450-89C4-5639B58B0BBD}" src="https://github.com/user-attachments/assets/781ced34-5ea8-44a3-b1fc-45ec23117d72" />
+<img width="307" height="164" alt="{D9BDEF17-5B5D-4706-AE97-86FEEF22BDD2}" src="https://github.com/user-attachments/assets/0494ee23-f2e3-4271-a3fd-fad5a09cbb46" />
 
 ---
 
@@ -246,6 +251,7 @@ Siin võivad kandidaatvõtmed olla:
 * Isikukood
 
 <img width="231" height="103" alt="{39203CC2-CC10-4FCB-BB70-44F44BD98527}" src="https://github.com/user-attachments/assets/3610d65e-130f-4867-890b-0f70896aa19b" />
+<img width="319" height="187" alt="{57C472C1-8B8F-40A2-B213-BD99A8DD12D0}" src="https://github.com/user-attachments/assets/fba40942-8064-4f32-9827-6943fc3441b1" />
 
 ---
 
@@ -278,6 +284,7 @@ Siin:
 * Alternate Key = Isikukood
 
 <img width="234" height="102" alt="{2B9E1A9F-9630-44AA-88AE-E7B8EC622836}" src="https://github.com/user-attachments/assets/1b8bfdb7-f873-4320-9706-b3b183509762" />
+<img width="288" height="179" alt="{B47DF4AE-C23C-4A11-9EE8-D701596EAFFB}" src="https://github.com/user-attachments/assets/3525b619-3a98-4645-abda-0207427e655d" />
 
 ---
 
