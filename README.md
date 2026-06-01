@@ -1,5 +1,8 @@
 # AndmebaasidLOGITpe24
+
 Andmebaasidega seotud sql kood ja konspekt
+
+[Select laused](select.md) | [Triggerid](trigerid.md) | [Portfooli](keys.md)
 
 - SQL - Structured Query Language - struktureeritud päringukeel
 - DDL - Data Definition Language - andmebaasi struktuuri loomiseks - CREATE, ALTER
