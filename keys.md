@@ -1,5 +1,7 @@
 # Andmebaasi võtmed (Keys)
 
+[Select laused](select.md) | [Triggerid](trigerid.md) | [Portfooli](keys.md) | [Kasutajad](kasutaja.md) | [Protseduurid](protseduur.md) | [Vaade](vaade.md)
+
 ## 1. Primary Key
 
 ### Definitsioon
