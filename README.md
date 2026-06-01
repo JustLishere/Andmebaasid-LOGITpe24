@@ -1,4 +1,4 @@
-# Andmebaasid Peelo portfoolio
+# Andmebaasid Lisete Peelo portfoolio
 
 Andmebaasidega seotud sql kood ja konspekt
 
