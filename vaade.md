@@ -14,41 +14,8 @@ SELECT id, nimi, email
 FROM kasutajad
 WHERE aktiivne = 1;
 ```
-
-## Vaate kasutamine
-
-Vaadet saab kasutada nagu tavalist tabelit.
-
-```sql
-SELECT * FROM aktiivsedKasutajad;
-```
-
-## Vaate muutmine
-
-Olemasolevat vaadet saab muuta käsuga `ALTER VIEW`.
-
-```sql
-ALTER VIEW aktiivsedKasutajad AS
-SELECT id, nimi, email, telefon
-FROM kasutajad
-WHERE aktiivne = 1;
-```
-
-## Vaate kustutamine
-
-```sql
-DROP VIEW aktiivsedKasutajad;
-```
-
-## Mitme tabeli põhine vaade
-
-```sql
-CREATE VIEW tellimusteInfo AS
-SELECT k.nimi, t.toode, t.kogus
-FROM kasutajad k
-JOIN tellimused t
-ON k.id = t.kasutaja_id;
-```
+<img width="306" height="151" alt="{DC264855-01A0-4A1A-BC23-D725284D365A}" src="https://github.com/user-attachments/assets/d68bea5a-9d22-484f-aae8-a5679d7d132c" />
+<img width="160" height="128" alt="{FB19615A-D8D3-415A-A091-32CF39F7F61B}" src="https://github.com/user-attachments/assets/9bea8df2-7c38-4105-b276-474343430ae5" />
 
 ## Tähtsad mõisted
 
